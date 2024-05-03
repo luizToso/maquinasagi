@@ -1,0 +1,51 @@
+ /* Estilo para a imagem */
+ .parent {
+    background-color: rgb(4, 100, 52);
+    height: 45px;
+    width: auto;
+    text-align: center;
+}
+.parenthi {
+   background-color: rgb(154, 162, 158);
+   height: 45px;
+   width: auto;
+   text-align: center; /*trabalho o texto*/
+   margin-left: 160px;
+   margin-right: 160px;
+      
+}
+.clild img{
+    margin-top: 2px;
+    width: 160px; /* Define a largura da imagem como 100% do contêiner pai */
+    height: 160px; /* Mantém a proporção da altura para evitar distorção */
+    display: inline-block ;
+
+    }
+
+    .clildimg2{
+      margin-top: 4px;
+      width: 500px; /* Define a largura da imagem como 100% do contêiner pai */
+      height: 80px; /* Mantém a proporção da altura para evitar distorção */
+  
+      }
+
+ .contener{
+    margin-left: 100px ;    
+    margin-right: 100px;
+ }
+ .hora{
+   color: rgb(4, 158, 91);   
+ }
+ .menu{
+   margin-top: 0px;
+   margin-left: 0px;
+ }
+ .penndd{
+   
+   margin-left: 400px;
+   display: inline-block ;
+
+ }
+ .id{
+  display: inline-block;
+ }
